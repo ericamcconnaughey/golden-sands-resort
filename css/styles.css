@@ -1,0 +1,26 @@
+img {
+  height: 300px;
+  border: black;
+}
+
+h1, h3, h4, p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: wheat;
+}
+
+h1 {
+  color: teal;
+}
+
+a {
+  color: lightskyblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:visited {
+  color: lightseagreen;
+}
+
+body {
+  background-color: black;
+}
